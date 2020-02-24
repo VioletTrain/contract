@@ -1,0 +1,21 @@
+{
+    "name": "anso/framework/contract",
+    "description": "Contracts for anso/framework/base, anso/http, anso/framework/console packages.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrij Kshanovskij",
+            "email": "andrewafk2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anso\\Framework\\Contract\\": "src\\"
+        }
+    }
+}
