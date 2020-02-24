@@ -1,6 +1,6 @@
 {
-    "name": "anso/framework/contract",
-    "description": "Contracts for anso/framework/base, anso/http, anso/framework/console packages.",
+    "name": "anso/contract",
+    "description": "Contracts for anso/base, anso/http, anso/console packages.",
     "type": "library",
     "license": "MIT",
     "authors": [
