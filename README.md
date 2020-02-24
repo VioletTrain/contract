@@ -1,1 +1,1 @@
-Contracts for anso/framework/base, anso/http, anso/framework/console packages.
+Contracts for anso/base, anso/http, anso/console packages.
