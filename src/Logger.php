@@ -4,5 +4,5 @@ namespace Anso\Framework\Contract;
 
 interface Logger
 {
-    public function log($data): void;
+    public function log(string $data): void;
 }
